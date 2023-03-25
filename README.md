@@ -1,5 +1,7 @@
 # dropbox
 
+[![Run on Repl.it](https://replit.com/badge/github/brown-csci1660/dropbox-stencil-freytes)](https://replit.com/new/github/brown-csci1660/dropbox-stencil-freytes)
+
 This is the stencil code for Dropbox. You will implement the functions defined in `client.py`. Some notes:
 
 - All the code you write should be in `client.py`; our provided APIs are already imported in `client.py` for you. 
